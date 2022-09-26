@@ -42,6 +42,7 @@ ________________________________________________________________________________
 Set-up Android Studio:
 
 How to change settings/default settings:
+
 https://intellij-support.jetbrains.com/hc/en-us/community/posts/115000555970-Android-SDK-Setup 
 ____________________________________________________________________________________________________________
 
