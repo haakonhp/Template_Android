@@ -1,6 +1,5 @@
 # Template_Android <br>
 ## Template
-<br>
 ____________________________________________________________________________________________________________<br>
 ### Issue and Pull Request templates: <br>
 #### _Git Configuration:_ <br> 
